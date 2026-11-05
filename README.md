@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=835&height=44&lines=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Engineer;Java%20Developer%20%7C%20Problem%20Solver%20%7C%20Building%20Projects" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=835&height=44&lines=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Engineer;Java%20Developer%20%7C%20Problem%20Solver%20%7C%20Building%20Projects" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -29,6 +29,13 @@ Computer Science student at the University at Albany passionate about software d
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+</p>
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="mailto:zahidattahi721@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ### 📊 GitHub Stats
