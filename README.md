@@ -10,7 +10,8 @@
 
 ### 🚀 About Me
 
-Computer Science student at the University at Albany passionate about software development, problem-solving, and building practical applications. Interested in software engineering, algorithms, and systems programming.
+
+Computer Science student at the University at Albany passionate about software development, problem-solving, and building practical applications. Interested in software engineering, algorithms, and systems programming. I enjoy exploring how software works under the hood and developing projects that strengthen my understanding of computer science fundamentals.
 
 🔭 &nbsp;I'm currently working on **Building and improving Java projects**  
 🌱 &nbsp;I'm currently learning **Data Structures &amp; Algorithms, Operating Systems, Database Systems, and Software Engineering.**  
