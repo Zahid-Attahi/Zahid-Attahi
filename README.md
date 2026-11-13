@@ -10,8 +10,7 @@
 
 ### 🚀 About Me
 
-
-Computer Science student at the University at Albany passionate about software development, problem-solving, and building practical applications. Interested in software engineering, algorithms, and systems programming. I enjoy exploring how software works under the hood and developing projects that strengthen my understanding of computer science fundamentals.
+Computer Science student at the University at Albany passionate about software development, problem-solving, and building practical applications. Interested in software engineering, algorithms, and systems programming.
 
 🔭 &nbsp;I'm currently working on **Building and improving Java projects**  
 🌱 &nbsp;I'm currently learning **Data Structures &amp; Algorithms, Operating Systems, Database Systems, and Software Engineering.**  
@@ -26,6 +25,7 @@ Computer Science student at the University at Albany passionate about software d
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
